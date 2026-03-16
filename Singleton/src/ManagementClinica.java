@@ -13,7 +13,7 @@ public class ManagementClinica {
         this.numarDoctori = 12;
     }
 
-    // Metoda publica prin care oferim acces la instanța unica
+    // Metoda publica prin care oferim acces la instanta unica
     public static ManagementClinica getInstanta() {
         return instanta;
     }
